@@ -1,2 +1,1 @@
-My first readme
-first lines of code in GitHub
+This is my first line of code in this README.md file
